@@ -5,7 +5,7 @@ public class HelloWorld {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		String mensajeGit = "Hello GitHub!";
+		String mensajeGit = "Hello Git a bug was fixed!!";
 		
 		/* String mensajeGit = "Hello Git!";
 		 * String mensajeGit = "Hello GitHub!";
